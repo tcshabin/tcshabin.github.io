@@ -1,8 +1,0 @@
-/* Instagram App Client Id */
-define('INSTAGRAM_CLIENT_ID', 'INSTAGRAM_CLIENT_ID-XXXXXXX');
-
-/* Instagram App Client Secret */
-define('INSTAGRAM_CLIENT_SECRET', 'INSTAGRAM_CLIENT_SECRET-XXXXXXXXX');
-
-/* Instagram App Redirect Url */
-define('INSTAGRAM_REDIRECT_URI', 'INSTAGRAM_REDIRECT_URI-XXXXXXXX');
